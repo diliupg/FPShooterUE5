@@ -125,8 +125,12 @@ $RECYCLE.BIN/
 
 # we do not need to version control the Starter Content and the Assets we got from the market place
 =======
-Content/ModularBuildingSet/*
+
 Content/Assets/*
+Content/IndustryPropsPack6/*
+Content/ModularBuildingSet/*
+Content/ParagonLtBelica/*
+
 =======
 
 # Visual Studio 2015 user specific files
